@@ -117,17 +117,6 @@ export const HomeView: FC = ({ }) => {
                   </div>
                 </Link>
               </li>
-              <li className="mb-5">
-                <Link href="/suatmm">
-                  <div className="p-4 hover:border">
-                    <a className="text-4xl font-bold mb-5">
-                    Send messages through NFTs
-                    </a>
-                    <div>Send a message to someone</div>
-                  </div>
-                </Link>
-
-              </li>
             </ul>
           </div>
         </div>
