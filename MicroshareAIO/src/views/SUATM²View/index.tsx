@@ -115,7 +115,7 @@ export const SUATMMView: FC = ({ }) => {
         name: _name,
         description: description,
         image: image,
-        external_url: "https://solanatools.vercel.app/"
+        external_url: "https://microshare-aio.vercel.app/"
       });
       if (uri) {
 
@@ -185,7 +185,7 @@ export const SUATMMView: FC = ({ }) => {
               <ul className="text-xs sm:text-xl">
                 <li>
                   <Link href="/">
-                    <a>SOLANA-TOOLS</a>
+                    <a>Microshare AIO</a>
                   </Link>
                 </li>
               </ul>
